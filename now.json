@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "alias": ["assets.soccerit.com.br"],
+  "builds": [
+    {
+      "src": "images/**/*",
+      "use": "@now/static"
+    }
+  ]
+}

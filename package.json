@@ -1,0 +1,19 @@
+{
+  "name": "soccerit-assets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "now --prod"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soccer-it/assets.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soccer-it/assets/issues"
+  },
+  "homepage": "https://github.com/soccer-it/assets#readme"
+}
